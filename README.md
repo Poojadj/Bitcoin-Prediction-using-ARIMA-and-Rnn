@@ -18,9 +18,6 @@ These predictions could be used as the foundation of a bitcoin trading strategy.
 Dataset used :
 bitstampUSD_1-min_data_2012-01-01_to_2017-01-08.csv
 
-Link :
-
-
 Concluding Remarks
 
 Bitcoin is a successful cryptocurrency, and it has been extensively studied in fields of economics and computer science. In this study, we analyze the time series of Bitcoin price with ARIMA, Recurrent Neural Network (RNN) and Bayesian Regression,  using Blockchain information in addition to macroeconomic variables and address the recent highly volatile Bitcoin prices.
