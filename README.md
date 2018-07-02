@@ -24,3 +24,4 @@ Bitcoin is a successful cryptocurrency, and it has been extensively studied in f
  
 We wrote a custom algorithm to hopefully predict future prices for all of our listed digital cryptocurrencies similar to Bitcoin. If you are looking for crypto currencies with a good return on your investment, BTC could potentially be a profitable investment option for you.
 
+[![HitCount](http://hits.dwyl.io/Poojadj/Bitcoin-Prediction-using-ARIMA-and-Rnn.svg)](http://hits.dwyl.io/Poojadj/Bitcoin-Prediction-using-ARIMA-and-Rnn)
